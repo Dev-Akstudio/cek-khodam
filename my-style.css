@@ -1,0 +1,101 @@
+<<<<<<< HEAD
+body {
+     font-family: "Arial", serif;
+     background: linear-gradient(to bottom, #002f4b, #ea4205);
+     color: white;
+     text-align: center;
+     padding: 20px;
+}
+.container {
+     background: rgba(0, 0, 0, 0.7);
+     padding: 20px;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.btn-custom {
+     background: #008cba;
+     color: white;
+}
+.btn-custom:hover {
+     background: #005f6b;
+}
+.btn-share {
+     background: #4caf50;
+     color: white;
+     margin-top: 10px;
+}
+.btn-share:hover {
+     background: #45a049;
+}
+#loading {
+     display: none;
+}
+#result {
+     margin-top: 20px;
+     text-align: left;
+}
+#result img {
+     width: 100%;
+     border-radius: 10px;
+}
+
+.footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: rgb(39, 37, 37);
+     color: white;
+     text-align: center;
+}
+=======
+body {
+     font-family: "Arial", serif;
+     background: linear-gradient(to bottom, #002f4b, #ea4205);
+     color: white;
+     text-align: center;
+     padding: 20px;
+}
+.container {
+     background: rgba(0, 0, 0, 0.7);
+     padding: 20px;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.btn-custom {
+     background: #008cba;
+     color: white;
+}
+.btn-custom:hover {
+     background: #005f6b;
+}
+.btn-share {
+     background: #4caf50;
+     color: white;
+     margin-top: 10px;
+}
+.btn-share:hover {
+     background: #45a049;
+}
+#loading {
+     display: none;
+}
+#result {
+     margin-top: 20px;
+     text-align: left;
+}
+#result img {
+     width: 100%;
+     border-radius: 10px;
+}
+
+.footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: rgb(39, 37, 37);
+     color: white;
+     text-align: center;
+}
+>>>>>>> ef87718ec0fe2d98c5c81cd71daa3637f81ef4e5
